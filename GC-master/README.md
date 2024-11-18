@@ -1,3 +1,3 @@
-# GC 
+# GC from newbie 
 
 BUSH
